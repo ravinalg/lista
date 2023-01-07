@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Visión Tv HD (Sol)
 http://204.12.202.90:8080/playgt/playgt2023/59
-
-#EXTINF:-1, CANAL D
+#EXTINF:-1,CANAL D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1,UNIVISION
 https://v-px.mybtv.net/live/28.m3u8
@@ -26,7 +25,6 @@ http://204.12.202.90:8080/playgt/playgt2023/102
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 #EXTINF:-1,NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
 #EXTINF:-1,CANAL 5 SOLOLA
 http://204.12.202.90:8080/playgt/playgt2023/141
 #EXTINF:-1,PLAY MEDIOS
