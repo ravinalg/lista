@@ -29,3 +29,5 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 http://204.12.202.90:8080/playgt/playgt2023/141
 #EXTINF:-1,PLAY MEDIOS
 https://inliveserver.com:1936/9520/9520/playlist.m3u8
+#EXTINF:-1,hola
+https://1041-vos.dtvott.com/DASH/manifest.mpd
