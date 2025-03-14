@@ -1,0 +1,167 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+
+#EXTINF:-1 tvg-id="A&E.cl" tvg-name="A&E FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AE.png" group-title="CINE ©",A&E FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83578
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AMC.png" group-title="CINE ©",AMC FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83583
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="CINE ©",AXN FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83587
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINECANAL.png" group-title="CINE ©",CINECANAL FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83594
+#EXTINF:-1 tvg-id="Cinelatino.ar" tvg-name="CINELATINO HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINELATINO.jpeg" group-title="CINE ©",CINELATINO HD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/170418
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/CINEMAX.png" group-title="CINE ©",CINEMAX FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83600
+#EXTINF:-1 tvg-id="DePelícula.mx" tvg-name="DE PELICULA FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/DEPELICULAS.png" group-title="CINE ©",DE PELICULA FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/136030
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/FX.png" group-title="CINE ©",FX FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83618
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png" group-title="CINE ©",GOLDEN EDGE FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/109182
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDEN.png" group-title="CINE ©",GOLDEN FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/136031
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GOLDEN PREMIER 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENPREMIER2.png" group-title="CINE ©",GOLDEN PREMIER 2
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/191184
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO2.png" group-title="CINE ©",HBO 2 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83676
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO FAMILY FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOFAMILY.png" group-title="CINE ©",HBO FAMILY FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83680
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="CINE ©",HBO FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83672
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="PARAMOUNT NETWORK FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/PARAMOUNTNETWORK.png" group-title="CINE ©",PARAMOUNT NETWORK FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/109184
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SONY.png" group-title="CINE ©",SONY FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83723
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAndes.bo" tvg-name="SONY NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE ©",SONY NOVELAS
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/124134
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/SPACE.png" group-title="CINE ©",SPACE FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83709
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="STAR CHANNEL FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STARCHANNEL.png" group-title="CINE ©",STAR CHANNEL FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83622
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/STUDIOUNIVERSAL.jpg" group-title="CINE ©",STUDIO UNIVERSAL FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83748
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/TNT.png" group-title="CINE ©",TNT FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83742
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png" group-title="CINE ©",WARNER CHANNEL FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83752
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/DISTRITOCOMEDIA.jpg" group-title="ENTRETENIMIENTO ©",DISTRITO COMEDIA FHD
+#EXTINF:-1 tvg-id="E!.ar" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/EENTERTAINMENT.png" group-title="ENTRETENIMIENTO ©",E! ENTERTAINMENT FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/125492
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="KANAL D DRAMA FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/KANALDDRAMA.png" group-title="ENTRETENIMIENTO ©",KANAL D DRAMA FHD
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/LASESTRELLAS.png" group-title="ENTRETENIMIENTO ©",LAS ESTRELLAS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/155977
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/123831
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="PASIONES USA FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/USAENTERTAINMENT/PASIONES.png" group-title="USA ENTERTAINMENT FHD ©",PASIONES USA FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/118298
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-name="TLNOVELAS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLNOVELAS.png" group-title="ENTRETENIMIENTO ©",TLNOVELAS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/163025
+#EXTINF:-1 tvg-id="TBS.ar" tvg-name="TNT NOVELAS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TNTNOVELAS.png" group-title="ENTRETENIMIENTO ©",TNT NOVELAS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/125497
+#EXTINF:-1 tvg-id="UniCable.mx" tvg-name="UNICABLE FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/UNICABLE.png" group-title="ENTRETENIMIENTO ©",UNICABLE FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/163027
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/ANIMALPLANET.png" group-title="CULTURALES ©",ANIMAL PLANET FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/86807
+#EXTINF:-1 tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name="DISCOVERY FAMILIA FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERYFAMILIA.png" group-title="CULTURALES ©",DISCOVERY FAMILIA FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/26325
+#EXTINF:-1 tvg-id="Discovery.ar" tvg-name="DISCOVERY FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/DISCOVERY.png" group-title="CULTURALES ©",DISCOVERY FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/86798
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/H2.png" group-title="CULTURALES ©",H2 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/116225
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY CHANNEL FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/HISTORYCHANNEL.jpg" group-title="CULTURALES ©",HISTORY CHANNEL FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/86808
+#EXTINF:-1 tvg-id="LoveNature.us" tvg-name="LOVE NATURE FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/LOVENATURE.png" group-title="CULTURALES ©",LOVE NATURE FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/86803
+#EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="NAT GEO MUNDO FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="CULTURALES ©",NAT GEO MUNDO FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/163031
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" group-title="CULTURALES ©",NATIONAL GEOGRAPHIC FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/86805
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISCOVERYKIDS.png" group-title="INFANTIL ©",DISCOVERY KIDS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/135434
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISNEYJUNIOR.png" group-title="INFANTIL ©",DISNEY JUNIOR FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/135432
+#EXTINF:-1 tvg-id="NickJr..ar" tvg-name="NICK JR FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/NICK.png" group-title="INFANTIL ©",NICK JR FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/135431
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica/Central.ec" tvg-name="NICKELODEON FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/NICK.png" group-title="INFANTIL ©",NICKELODEON FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/104197
+#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-name="ZOOMO FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/ZOOMO.png" group-title="INFANTIL ©",ZOOMO FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/135427
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/CARTOONNETWORK.png" group-title="INFANTIL ©",CARTOON NETWORK FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/135435
+#EXTINF:-1 tvg-id="Cartoonito.ar" tvg-name="CARTOONITO FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/INFANTILES/CARTOONITO.png" group-title="INFANTIL ©",CARTOONITO FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/6287
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX: 5" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/5.png" group-title="MEXICO ™",MX: 5
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/6896
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX: AZTECA 7" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/AZTECA7.png" group-title="MEXICO ™",MX: AZTECA 7
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/95195
+#EXTINF:-1 tvg-id="XEQIZD2" tvg-name="MX: NU9VE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/NU9VE.jpg" group-title="MEXICO ™",MX: NU9VE
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/6898
+
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenespanol.pluto" tvg-name="BEIN SPORTS XTRA Ñ FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/BEINSPORTS.png" group-title="DEPORTES ©",BEIN SPORTS XTRA Ñ FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/135515
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="BEIN SPORTS Ñ FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/BEINSPORTS.png" group-title="DEPORTES ©",BEIN SPORTS Ñ FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/6251
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="CLARO SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/CLAROSPORTS.png" group-title="DEPORTES ©",CLARO SPORTS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83863
+#EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORTS + FHD" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="DEPORTES ©",DSPORTS + FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83764
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="DSPORTS 2 FHD" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="DEPORTES ©",DSPORTS 2 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83771
+#EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DSPORTS FHD" tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="DEPORTES ©",DSPORTS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83768
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES ©",ESPN FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/109076
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 FHD" tvg-logo="https://static.epg.best/mx/Espn2.mx.png" group-title="DEPORTES ©",ESPN 2 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83787
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 FHD" tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" group-title="DEPORTES ©",ESPN 3 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83792
+#EXTINF:-1 tvg-id="ESPN4.co" tvg-name="ESPN 4 FHD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="DEPORTES ©",ESPN 4 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/116222
+#EXTINF:-1 tvg-id="ESPNExtra.ar" tvg-name="ESPN 5 FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES ©",ESPN 5 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/124830
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES ©",ESPN 6 HD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/412914
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 FHD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="DEPORTES ©",ESPN 7 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/412915
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN DEPORTES FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/ESPNDEPORTES.jpg" group-title="DEPORTES ©",ESPN DEPORTES FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/136033
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN PREMIUM FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/ESPNPREMIUM.png" group-title="DEPORTES ©",ESPN PREMIUM FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83828
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="DEPORTES ©",EUROSPORT 1 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/914
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="DEPORTES ©",EUROSPORT 2 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/915
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS2.png" group-title="DEPORTES ©",FOX SPORTS 2 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83814
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="FOX SPORTS 3 FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS3.png" group-title="DEPORTES ©",FOX SPORTS 3 FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83820
+#EXTINF:-1 tvg-id="FOXSports.ar" tvg-name="FOX SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/FOXSPORTS1.png" group-title="DEPORTES ©",FOX SPORTS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83801
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="SKY SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/SKYSPORTS.png" group-title="DEPORTES ©",SKY SPORTS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/163018
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="DEPORTES ©",TNT SPORTS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/83831
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN USA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/TUDN/TUDN.png" group-title="DEPORTES ©",TUDN USA
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/104190
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TYC.jpg" group-title="DEPORTES ©",TYC SPORTS FHD
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/123833
+#EXTINF:-1 tvg-id="M+LaLigaTV2.es" tvg-name="ES: LA LIGA TV 2 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="ESP DEPORTES FHD ©",ES: LA LIGA TV 2 por M+
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/87745
+#EXTINF:-1 tvg-id="PPVGEN" tvg-name="GT: TIGO SPORTS GUATEMALA" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="GUATEMALA ™",GT: TIGO SPORTS GUATEMALA
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/102476
+
+#EXTINF:-1 tvg-id="CanalAntigua.gt" tvg-name="GT: ANTIGUA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/GUATEMALA/ANTIGUA.png" group-title="GUATEMALA ™",GT: ANTIGUA
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/87498
+#EXTINF:-1 tvg-id="Guatevision.gt" tvg-name="GT: GUATEVISION" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/GUATEMALA/GUATEVISION.png" group-title="GUATEMALA ™",GT: GUATEVISION
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/95207
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="GT: AZTECA GUATEMALA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/GUATEMALA/AZTECAGUATEMALA.png" group-title="GUATEMALA ™",GT: AZTECA GUATEMALA
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/87499
+#EXTINF:-1 tvg-id="Cablenoticias.gt" tvg-name="GT: TN23" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/GUATEMALA/TN23.png" group-title="GUATEMALA ™",GT: TN23
+http://rokstalker-play.com:8080/Connecta002/Connecta9890/95206
+#EXTINF:-1, group-title="GUATEMALA ™",Visión Tv HD
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1, group-title="GUATEMALA ™",NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
